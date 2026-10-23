@@ -15,6 +15,7 @@ Python · YOLO · Streamlit · Pillow
 Run Locally
 
 pip install -r requirements.txt
+
 streamlit run app.py
 
 Status: In Progress
