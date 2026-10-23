@@ -1,4 +1,5 @@
 .venv/
 _pycache_/
 *.py[cod]
+yolo11n.pt
 .streamlit/secrets.toml
